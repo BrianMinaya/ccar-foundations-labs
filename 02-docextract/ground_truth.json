@@ -1,0 +1,96 @@
+{
+  "invoice_01_clean": {
+    "invoice_number": "INV-2024-001",
+    "date": "2024-01-15",
+    "vendor": "Acme Office Supplies Ltd",
+    "customer": "TechCorp Industries",
+    "po_number": "PO-7890",
+    "line_items": [
+      {"description": "Premium A4 Paper (5 reams)", "amount": 45.00},
+      {"description": "Ink Cartridges (Black, x3)", "amount": 89.00},
+      {"description": "Wireless Mouse", "amount": 34.00},
+      {"description": "USB-C Hub", "amount": 67.00},
+      {"description": "Monitor Stand", "amount": 52.00},
+      {"description": "Desk Organiser Set", "amount": 28.00},
+      {"description": "Whiteboard Markers (pack of 12)", "amount": 15.00},
+      {"description": "Cable Management Kit", "amount": 23.00},
+      {"description": "Ergonomic Wrist Rest", "amount": 19.00},
+      {"description": "Screen Cleaning Kit", "amount": 12.00},
+      {"description": "Sticky Notes (assorted, 6-pack)", "amount": 8.00},
+      {"description": "Binder Clips (box of 50)", "amount": 6.00},
+      {"description": "Document Shredder Bags (20)", "amount": 18.00},
+      {"description": "Laminating Pouches (100)", "amount": 30.00}
+    ],
+    "subtotal": 446.00,
+    "tax": 89.20,
+    "total": 535.20
+  },
+  "invoice_02_sum_mismatch": {
+    "invoice_number": "2024-0472",
+    "date": "2024-02-28",
+    "vendor": "BuildRight Construction Materials",
+    "customer": "Henderson Property Group",
+    "po_number": "PO-2024-118",
+    "line_items": [
+      {"description": "Cement (50kg bags x8)", "amount": 120.00},
+      {"description": "Timber planks (2.4m, bundle of 10)", "amount": 85.00},
+      {"description": "Roofing felt (roll)", "amount": 42.00},
+      {"description": "Copper pipe fittings (assorted box)", "amount": 38.00},
+      {"description": "Plasterboard sheets (x6)", "amount": 72.00},
+      {"description": "Safety netting (10m roll)", "amount": 35.00}
+    ],
+    "subtotal": 392.00,
+    "tax": null,
+    "total": 392.00
+  },
+  "invoice_03_prose_date": {
+    "invoice_number": null,
+    "date": "2024-03-03",
+    "vendor": "Chen's Artisan Catering",
+    "customer": "Wellington & Associates Law Firm",
+    "po_number": "PO-W&A-2024-03",
+    "line_items": [
+      {"description": "Three-course dinner service for 40 guests", "amount": 2400.00},
+      {"description": "Premium wine selection (10 bottles)", "amount": 650.00},
+      {"description": "Floral table arrangements", "amount": 380.00},
+      {"description": "Live string quartet (3 hours)", "amount": 900.00}
+    ],
+    "subtotal": 4330.00,
+    "tax": null,
+    "total": 4330.00
+  },
+  "invoice_04_missing_po": {
+    "invoice_number": "C9-2024-0156",
+    "date": "2024-04-12",
+    "vendor": "Cloud9 Digital Services",
+    "customer": "Fresh Start Marketing Ltd",
+    "po_number": null,
+    "line_items": [
+      {"description": "Website redesign (Phase 2)", "amount": 3500.00},
+      {"description": "SEO audit and implementation", "amount": 1200.00},
+      {"description": "Social media content package (Q2)", "amount": 800.00},
+      {"description": "Google Ads management (April)", "amount": 450.00}
+    ],
+    "subtotal": 5950.00,
+    "tax": 1190.00,
+    "total": 7140.00
+  },
+  "invoice_05_garbled": {
+    "invoice_number": "NG-24-0891",
+    "date": "2024-06-07",
+    "vendor": "Northgate Industrial Supplies",
+    "customer": "Precision Manufacturing Co.",
+    "po_number": "PO-PM-2024-067",
+    "line_items": [
+      {"description": "Heavy-duty shelving unit (x2)", "amount": 245.00},
+      {"description": "Industrial cleaning supplies", "amount": 16.00},
+      {"description": "Safety goggles (box of 20)", "amount": 89.00},
+      {"description": "Fire extinguisher (CO2, 2kg)", "amount": 67.00},
+      {"description": "First aid kit (BSI compliant)", "amount": 34.00},
+      {"description": "Anti-slip floor tape (5 rolls)", "amount": 28.00}
+    ],
+    "subtotal": 479.00,
+    "tax": null,
+    "total": 479.00
+  }
+}

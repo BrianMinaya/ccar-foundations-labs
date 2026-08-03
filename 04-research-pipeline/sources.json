@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "survey-a",
+    "title": "Regional Architecture Survey A",
+    "section": "adoption",
+    "facts": {"adoption_rate": 0.62, "sample_size": 800},
+    "provenance": "Fixture for training; not a real publication"
+  },
+  {
+    "source_id": "survey-b",
+    "title": "Regional Architecture Survey B",
+    "section": "adoption",
+    "facts": {"adoption_rate": 0.48, "sample_size": 1200},
+    "provenance": "Fixture for training; not a real publication"
+  },
+  {
+    "source_id": "controls-note",
+    "title": "Operational Controls Note",
+    "section": "risk_controls",
+    "facts": {"recommended_controls": ["allowlists", "hooks", "audit sampling"]},
+    "provenance": "Fixture for training; not a real publication"
+  },
+  {
+    "source_id": "outage-source",
+    "title": "Unavailable Cost Benchmark",
+    "section": "costs",
+    "facts": {},
+    "available": false,
+    "provenance": "Fixture deliberately unavailable to exercise partial recovery"
+  }
+]

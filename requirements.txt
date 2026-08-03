@@ -1,0 +1,4 @@
+anthropic==0.120.2
+claude-agent-sdk==0.2.128
+pydantic==2.13.4
+python-dotenv==1.2.2

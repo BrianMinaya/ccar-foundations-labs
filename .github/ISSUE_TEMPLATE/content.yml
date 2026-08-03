@@ -1,0 +1,18 @@
+name: Content improvement
+description: Suggest a clearer or more accurate original exercise
+title: "docs: "
+labels: [documentation]
+body:
+  - type: dropdown
+    id: source
+    attributes:
+      label: Is this based only on public material?
+      options: ["Yes", "No"]
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement and public source link
+    validations:
+      required: true

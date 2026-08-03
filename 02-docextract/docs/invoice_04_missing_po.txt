@@ -1,0 +1,25 @@
+TAX INVOICE
+
+Cloud9 Digital Services
+    hello@cloud9digital.co.uk
+    VAT Reg: GB 987 6543 21
+
+To: Fresh Start Marketing Ltd
+    7 Camden High Street
+    London NW1 7JE
+
+Invoice #: C9-2024-0156
+Date: 12/04/2024
+
+Services Rendered:
+  Website redesign (Phase 2)             £3,500.00
+  SEO audit and implementation           £1,200.00
+  Social media content package (Q2)      £800.00
+  Google Ads management (April)          £450.00
+
+Subtotal: £5,950.00
+VAT (20%): £1,190.00
+Total: £7,140.00
+
+Due within 30 days of invoice date.
+BACS: Lloyds | 30-92-10 | 87654321

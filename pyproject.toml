@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools==80.10.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ccar-foundations-labs"
+version = "0.2.0"
+description = "Unofficial hands-on architecture labs for Claude learners"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+license = "MIT"
+dependencies = [
+  "anthropic==0.120.2",
+  "claude-agent-sdk==0.2.128",
+  "pydantic==2.13.4",
+  "python-dotenv==1.2.2",
+]
+
+[project.optional-dependencies]
+dev = [
+  "jsonschema==4.26.0",
+  "pytest==9.1.1",
+  "ruff==0.16.1",
+]
+
+[tool.setuptools]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "03-powerrepo/repo/tests"]
+pythonpath = ["03-powerrepo/repo"]
+addopts = "-ra"
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]

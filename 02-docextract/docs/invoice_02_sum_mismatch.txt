@@ -1,0 +1,25 @@
+INVOICE
+
+Invoice No: 2024-0472
+Date: 28/02/2024
+From: BuildRight Construction Materials
+
+To: Henderson Property Group
+    18 Queen Street, Manchester M2 5JB
+
+PO#: PO-2024-118
+
+Description                              Amount
+-----------------------------------------  ------
+Cement (50kg bags x8)                    £120.00
+Timber planks (2.4m, bundle of 10)       £85.00
+Roofing felt (roll)                      £42.00
+Copper pipe fittings (assorted box)      £38.00
+Plasterboard sheets (x6)                £72.00
+Safety netting (10m roll)                £35.00
+
+Subtotal: £500.00
+Total Due: £500.00
+
+Payment: Bank transfer within 14 days
+Ref: BR-HEN-0472

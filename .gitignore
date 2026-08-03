@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+coverage.xml
+.coverage
+02-docextract/output/
+04-research-pipeline/output/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "study-tools": {
+      "command": "python3",
+      "args": ["mcp-servers/study_server.py"]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+INVOICE #INV-2024-001
+Date: 15 January 2024
+Vendor: Acme Office Supplies Ltd
+PO Number: PO-7890
+
+Bill To:
+  TechCorp Industries
+  42 Innovation Drive
+  London EC2A 1NT
+
+Line Items:
+  1. Premium A4 Paper (5 reams)        £45.00
+  2. Ink Cartridges (Black, x3)        £89.00
+  3. Wireless Mouse                    £34.00
+  4. USB-C Hub                         £67.00
+  5. Monitor Stand                     £52.00
+  6. Desk Organiser Set                £28.00
+  7. Whiteboard Markers (pack of 12)   £15.00
+  8. Cable Management Kit              £23.00
+  9. Ergonomic Wrist Rest              £19.00
+  10. Screen Cleaning Kit              £12.00
+  11. Sticky Notes (assorted, 6-pack)  £8.00
+  12. Binder Clips (box of 50)         £6.00
+  13. Document Shredder Bags (20)      £18.00
+  14. Laminating Pouches (100)         £30.00
+
+Subtotal: £446.00
+VAT (20%): £89.20
+Total: £535.20
+
+Payment Terms: Net 30
+Bank: Barclays | Sort: 20-45-67 | Acc: 12345678

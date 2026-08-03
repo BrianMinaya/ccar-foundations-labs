@@ -1,0 +1,24 @@
+lNVOlCE                              [SCAN QUALITY: POOR]
+
+Supp1ier: Northgate lndustria1 Supp1ies
+lnvoice #: NG-24-O891
+Date: 07/06/24
+
+Bi11 To:
+  Precision Manufacturing Co.
+  Unit 14, Trafford lndustria1 Park
+
+P.O. Number: PO-PM-2O24-O67
+
+ltems:
+  Heavy-duty she1ving unit (x2)        £245.OO
+  lndustria1 c1eaning supp1ies         £16.oo
+  Safety gogg1es (box of 2O)           £89.OO
+  Fi re extinguisher (CO2, 2kg)        £67.OO
+  First aid kit (BSl comp1iant)        £34.OO
+  Anti-s1ip f1oor tape (5 ro11s)       £28.OO
+
+Subtota1: £479.OO
+Tota1 Due: £479.OO
+
+Payment: 3O days net
