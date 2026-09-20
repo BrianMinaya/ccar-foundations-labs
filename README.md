@@ -5,6 +5,12 @@ the concepts covered by Anthropic's **Claude Certified Architect: Foundations**
 exam. Each milestone in each project demonstrates a specific failure mode first,
 then fixes it, so the concept sticks.
 
+## Guided walkthrough
+
+For a staged learning sequence with environment setup, milestone checkpoints,
+troubleshooting guidance, and a recommended project order, see
+[GUIDED-WALKTHROUGH.md](GUIDED-WALKTHROUGH.md).
+
 > **Disclaimer:** This is an independent, unofficial study project. It is not
 > created by, affiliated with, or endorsed by Anthropic. "Claude," "Anthropic,"
 > and "Claude Certified Architect" are trademarks of Anthropic PBC and are used
